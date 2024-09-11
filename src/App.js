@@ -35,8 +35,8 @@ function App() {
       <Router>
         <ScrollToTop>
           <Routes>
-            <Route name="home" path="/rdexim" element={<Home />} />
-            <Route name="contact" path="/rdexim/contact" element={<Contact />} />
+            <Route name="home" path="/" element={<Home />} />
+            <Route name="contact" path="/contact" element={<Contact />} />
           </Routes>
         </ScrollToTop>
       </Router>
