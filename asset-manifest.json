@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rdexim/static/css/main.cba17332.css",
-    "main.js": "/rdexim/static/js/main.84077bf4.js",
+    "main.js": "/rdexim/static/js/main.01ff3a0c.js",
     "static/media/Kiln Drying.jpeg": "/rdexim/static/media/Kiln Drying.a6ba2e14f793d24dac4b.jpeg",
     "static/media/Seraya.png": "/rdexim/static/media/Seraya.84c08acaf6d1814ea3f7.png",
     "static/media/homepage.jpg": "/rdexim/static/media/homepage.7429fd4e10f9d95230b4.jpg",
@@ -14,10 +14,10 @@
     "index.html": "/rdexim/index.html",
     "static/media/hero-bg.svg": "/rdexim/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.cba17332.css.map": "/rdexim/static/css/main.cba17332.css.map",
-    "main.84077bf4.js.map": "/rdexim/static/js/main.84077bf4.js.map"
+    "main.01ff3a0c.js.map": "/rdexim/static/js/main.01ff3a0c.js.map"
   },
   "entrypoints": [
     "static/css/main.cba17332.css",
-    "static/js/main.84077bf4.js"
+    "static/js/main.01ff3a0c.js"
   ]
 }
