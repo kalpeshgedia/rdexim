@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1057ff7.css",
-    "main.js": "/static/js/main.8e85eb19.js",
+    "main.js": "/static/js/main.e7b2efe9.js",
     "static/media/Kiln Drying.jpeg": "/static/media/Kiln Drying.a6ba2e14f793d24dac4b.jpeg",
     "static/media/Seraya.png": "/static/media/Seraya.84c08acaf6d1814ea3f7.png",
     "static/media/homepage.jpg": "/static/media/homepage.7429fd4e10f9d95230b4.jpg",
@@ -14,10 +14,10 @@
     "index.html": "/index.html",
     "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.f1057ff7.css.map": "/static/css/main.f1057ff7.css.map",
-    "main.8e85eb19.js.map": "/static/js/main.8e85eb19.js.map"
+    "main.e7b2efe9.js.map": "/static/js/main.e7b2efe9.js.map"
   },
   "entrypoints": [
     "static/css/main.f1057ff7.css",
-    "static/js/main.8e85eb19.js"
+    "static/js/main.e7b2efe9.js"
   ]
 }
