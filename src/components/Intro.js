@@ -11,7 +11,7 @@ const Intro = () => {
                         <div className="lg:w-1/2 flex flex-col lg:mx-4 justify-center">
                             <img alt="card img" className="rounded-t float-right" src={img} />
                         </div>
-                        <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
+                        <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8">
                             
                             <h3 className="text-3xl  text-blue-900 font-bold">We develop high quality bespoke web and mobile applications for organizations, institutions and SMEs</h3>
                             <div>
